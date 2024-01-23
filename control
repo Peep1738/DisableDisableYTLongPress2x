@@ -1,0 +1,9 @@
+Package: com.sky1738.disableytlongpress2x
+Name: DisableYTlongpress2x
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Disable LongPress 2x Speed in YouTube's Video!
+Maintainer: Sky1738
+Author: Sky1738
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
